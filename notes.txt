@@ -1,0 +1,2 @@
+# to check version of os in linux.
+cat /etc/os-release
